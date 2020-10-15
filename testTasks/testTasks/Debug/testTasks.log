@@ -1,0 +1,3 @@
+﻿  Main.cpp
+c:\users\stasi\source\repos\testtasks\testtasks\main.cpp(20): warning C4307: -: переполнение целой константы
+  testTasks.vcxproj -> C:\Users\stasi\source\repos\testTasks\Debug\testTasks.exe

@@ -1,0 +1,6 @@
+﻿  Main.cpp
+c:\users\stasi\source\repos\testtasks\testtasks\main.cpp(20): warning C4307: -: переполнение целой константы
+  Создание кода
+  All 75 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  testTasks.vcxproj -> C:\Users\stasi\source\repos\testTasks\Release\testTasks.exe

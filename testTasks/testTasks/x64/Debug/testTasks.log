@@ -1,0 +1,4 @@
+﻿  Main.cpp
+c:\users\stasi\source\repos\testtasks\testtasks\customlist.h(33): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\stasi\source\repos\testtasks\testtasks\customlist.h(53): warning C4018: <: несоответствие типов со знаком и без знака
+  testTasks.vcxproj -> C:\Users\stasi\source\repos\testTasks\x64\Debug\testTasks.exe
